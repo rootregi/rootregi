@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
-<p align="center">Hello, nice to meet you. <br><br> 19 years of career, working directly in the technology market, operating Cisco, Alcatel, NEC, Huawei transport access networks with solid experience in the areas of infrastructure and LAN and WAN layers. Skills with performance monitoring, network automation and delivery in different market segments, such as Financial and Service Providers and government with technology expansion projects for different transmission media.</p>&nbsp;
+<p align="center">Hi, nice to meet you. <br><br> 19 years of career, working directly in the technology market, operating Cisco, Alcatel, NEC, Huawei transport access networks with solid experience in the areas of infrastructure and LAN and WAN layers. Skills with performance monitoring, network automation and delivery in different market segments, such as Financial and Service Providers and government with technology expansion projects for different transmission media.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rootregi&theme=radical&mode=weekly" />
