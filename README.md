@@ -1,6 +1,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=foote"/>
-<p align="center">Hi, nice to meet you. <br><br> I work at 19 years of career, working directly in the technology market, operating Cisco, Alcatel, NEC, Huawei transport and access networks with solid experience in the areas of infrastructure LAN and WAN layers 2/4. Skills with performance monitoring pro-active and controls to network automation and delivery in different market segments, such as Financial and Service Providers and government with technology expansion projects for different transmission media.</p>&nbsp;
+<p align="center">Hi, nice to meet you. <br><br> 19 years of career, working directly in the technology market, operating Cisco routing switching, Alcatel SDH, NEC DWDM, Huawei Gpon. Transport and access networks with solid experience in the areas of infrastructure LAN and WAN layers 2/4. Skills with performance monitoring pro-active and controls to network automation and delivery in different market segments, such as Financial and Service Providers and government with technology expansion projects for different transmission media.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rootregi&theme=radical&mode=weekly" />
