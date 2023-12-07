@@ -25,7 +25,7 @@ Data Base <br>
 <img align="center" alt="VM-Ware" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="center" alt="VM-Ware" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-## My projects
+## My projects completed in 2023
 - [Pro-Active Monitoring with Zabbix and Telegram](https://www.notion.so/reginetwork/Project-Zabbix-ABB-adce033e8c554b14baf81fb3e48293fb?pvs=4)
 
 
