@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=foote"/><p align="Left">Hi, nice to meet you. <br><br> 19 years of career, working directly in the technology market, operating Cisco Routing Switching, UCS ICI, SD-Wan Vip-tela. Devices Alcatel SDH, NEC DWDM, Huawei Gpon. Transport and access networks with solid experience in the areas of infrastructure LAN and WAN layers 2/4. MP-BGP, MPLSVPN, DMVPN, OSPF, QOS. Skills with performance monitoring pro-active and controls to network automation and delivery in different market segments, such as Financial and Service Providers and government with technology expansion projects for different transmission media.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=foote"/><p align="Left">Hi, nice to meet you. <br><br> 19 years of career, working directly in the technology market, operating Cisco Routing Switching, WLC Wireless, UCS ICI, SD-Wan Vip-tela. Devices Alcatel SDH, NEC DWDM, Huawei Gpon. Transport and access networks with solid experience in the areas of infrastructure LAN and WAN layers 2/4. MP-BGP, MPLSVPN, DMVPN, OSPF, QOS. Skills with performance monitoring pro-active and controls to network automation and delivery in different market segments, such as Financial and Service Providers and government with technology expansion projects for different transmission media.
 
 Technologies I work with daily <br>
 <div style="display: inline_block">
@@ -23,17 +23,17 @@ IDE and interpreters <br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <BR>
 Data Base <br>
 <img align="center" alt="VM-Ware" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img align="center" alt="VM-Ware" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img align="center" alt="VM-Ware" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <br>
 
-## My projects completed in 2023
+
+## My projects completed in 2023 <br>
+
 - [Pro-Active Monitoring with Zabbix and Telegram](https://www.notion.so/reginetwork/Project-Zabbix-ABB-adce033e8c554b14baf81fb3e48293fb?pvs=4)
-
+- [Automation for layer2 vlan configuration](https://www.notion.so/reginetwork/Automation-for-layer2-vlan-configuration-3b44f6d32a28412aa3e913eb935bf022?pvs=4)
 
 &nbsp;
 &nbsp;
-
 ## Contacts:
-
 <div> 
 </a>
 <a href = "mailto:regi.itgo@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
