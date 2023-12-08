@@ -29,7 +29,7 @@ Data Base <br>
 ## My projects completed in 2023 <br>
 
 - [Pro-Active Monitoring with Zabbix and Telegram](https://reginetwork.notion.site/Project-SNMP-Monitoring-Zabbix-ABB-Italy-adce033e8c554b14baf81fb3e48293fb?pvs=4)
-- [Automation for layer2 vlan configuration](https://www.notion.so/reginetwork/Automation-for-layer2-vlan-configuration-3b44f6d32a28412aa3e913eb935bf022?pvs=4)
+- [Automation for layer2 vlan configuration](https://reginetwork.notion.site/Automation-for-layer2-vlan-configuration-3b44f6d32a28412aa3e913eb935bf022?pvs=4)
 
 &nbsp;
 &nbsp;
