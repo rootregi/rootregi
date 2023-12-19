@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=foote"/><p align="Left">Hi, nice to meet you! We can speak in three languages, English, Italian and Portuguese <br> Professional Summary: 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=foote"/><p align="Left">Hi! This is my <br> Professional Summary: 
 21 years of career, working directly in the technology as a senior network architect using suppliers Cisco, Huawei
 and NEC, with solid experience in the areas of Project Management, Leadership in Troubleshooting Wan/Lan at a critical
 level, Solutions and installation of new Infrastructures sites telecommunications in data transmission and voice.
