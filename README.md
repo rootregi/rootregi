@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=foote"/><p align="Left">Hi! This is my <br> Professional Summary: 
 21 years of career, working directly in the technology as a senior network architect using suppliers Cisco, Huawei
-and NEC, with solid experience in the areas of Project Management, Leadership in Troubleshooting Wan/Lan at a critical
+and NEC, with solid experience in the areas of Project Management, Leadership in Troubleshooting Wan/Lan a critical
 level, Solutions and installation of new Infrastructures sites telecommunications in data transmission and voice.
 Activation of data centers N9000 DNA, ACI. Manager operation of Disaster Recovery and Business Continuous.
 My portfolio includes management team, technical leadership and internal training. Proactivity and projects
 automation in routing switch, monitoring and quality services. Integration of centralized and distributed. I was part of
-the Backbone KU/Brazil Vodanet. In the construction using satellite Espamar, and Brasil SAT1.2.3. For remote point with
-transmission the voice and media in isolate areas. Construction of Huawei Backbones for technology GPon Fiber Optic in
+the Backbone KU/Brazil Vodanet. In the construction using satellite Espamar, and Brasil SAT 1.2.3. For remote point with
+the voice and media transmission in isolate areas. Construction of Huawei Backbones for technology GPon Fiber Optic in
 Latin America, and planning implementation complex networks in the segment in Brazil and Italy. Global experience, and
 working with different cultures I have two levels of speaking and writing: English, Italian. In addition to my Portuguese
 language. <br>
