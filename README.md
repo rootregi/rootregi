@@ -3,7 +3,6 @@ CCIE with more than 21 years of experience two engineering universities covering
 Qualifications certified: CCIE Routing and Switching 400-101 | ENARSI 300-410 (Implementing Cisco Enterprise Advanced Routing and Services) | ENCOR 350-401 (Implementing Cisco Enterprise Network Core Technologies) | Cisco DEVASC DevNet | Zabbix Certificate
 Professional
 
-
 Technologies I work with daily <br>
 <div style="display: inline_block">
 Network engineer <br>
@@ -28,7 +27,6 @@ IDE and interpreters <br>
 Data Base <br>
 <img align="center" alt="VM-Ware" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="center" alt="VM-Ware" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <br>
-
 
 ## My projects completed in 2023 <br>
 - [Pro-Active Monitoring with Zabbix and Telegram](https://reginetwork.notion.site/Project-SNMP-Monitoring-Zabbix-ABB-Italy-adce033e8c554b14baf81fb3e48293fb?pvs=4)
