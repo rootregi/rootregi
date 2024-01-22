@@ -32,7 +32,7 @@ Data Base <br>
 
 ## My projects completed in 2023 <br>
 - [Pro-Active Monitoring with Zabbix and Telegram](https://reginetwork.notion.site/Project-SNMP-Monitoring-Zabbix-ABB-Italy-adce033e8c554b14baf81fb3e48293fb?pvs=4)
-- [Automation for layer2 vlan configuration](https://reginetwork.notion.site/Automation-for-layer2-vlan-configuration-3b44f6d32a28412aa3e913eb935bf022?pvs=4)
+- [Automation for layer2 web-api ansible and python3 vlan configuration](https://reginetwork.notion.site/Automation-for-layer2-vlan-configuration-3b44f6d32a28412aa3e913eb935bf022?pvs=4)
 - [Simulated TDA for implementing BGP VPNv4](https://reginetwork.notion.site/Simulated-TDA-for-implementing-BGP-VPNv4-82fbd380471e47ea8b54559aefed1d75?pvs=4)
 
 ## My Certified courses in 2024 <br>
